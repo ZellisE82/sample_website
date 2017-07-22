@@ -1,5 +1,1 @@
-<!DOCTYPE HTML>
-<head>
-	<title> HELLO WORLD! </title>
-		</head>
-	</html>
+<p> check it out </p>
